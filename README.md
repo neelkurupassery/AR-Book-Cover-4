@@ -11,3 +11,5 @@
  Within the Unity Hub, you should first "Add Project", and select the AR Book Cover Folder. Then once Vuforia is imported, click "Play". 
  
  3D models were from Thingiverse for non-commercial use. 
+ 
+ Example: https://www.youtube.com/watch?v=rpiAhtbtbuI 
