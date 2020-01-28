@@ -2,6 +2,7 @@
  
  Welcome to the AR Book Cover Project. 
  
- In order to run, one needs Unity and Vuforia.
+ The first step would be to clone the project from github to a local folder. This can be done with the git command line command "git clone <url>". 
+ Secondly, one needs Unity and Vuforia. Specifically, the Vuforia package must be imported. This is because the file-size was > 100 MB. 
  
- For the project to be run, the Vuforia package must be imported. 
+ 
