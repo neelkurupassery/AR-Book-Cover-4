@@ -13,3 +13,5 @@
  3D models were from Thingiverse for non-commercial use. 
  
  Example: https://www.youtube.com/watch?v=rpiAhtbtbuI 
+ 
+ Limitations include the image not being recognized at some horizontal angles of the book. The button on the back needs the book to be front facing the camera to work most effectively. 
